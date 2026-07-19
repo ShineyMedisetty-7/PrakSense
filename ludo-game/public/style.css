@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: Arial;
+  }
+  
+  .board {
+    position: relative;
+    width: 450px;
+    height: 450px;
+    margin: auto;
+  
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/3/32/Ludo_board.svg');
+    background-size: cover;
+  }
+  
+  .token {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    position: absolute;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+  
+  .p1 { background: red; }
+  .p2 { background: blue; }
+  .p3 { background: green; }
+  .p4 { background: yellow; }
+  
+  #diceBox {
+    font-size: 40px;
+    margin-top: 10px;
+  }

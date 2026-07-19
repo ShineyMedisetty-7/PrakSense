@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ludo Multiplayer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Ludo Multiplayer</h2>
+
+<p id="playerInfo">Connecting...</p>
+<p id="status"></p>
+
+<div class="board" id="board"></div>
+
+<button onclick="rollDice()">Roll Dice</button>
+<div id="diceBox">🎲</div>
+<p id="dice"></p>
+
+<!-- socket.io -->
+<script src="/socket.io/socket.io.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
