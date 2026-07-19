@@ -2,7 +2,9 @@
 
 > Production-ready prototype for Raipur Smart City Hackathon Finals
 
-![ParkSense Logo](https://via.placeholder.com/800x200/3B82F6/FFFFFF?text=ParkSense+-+Smart+Parking+for+Smart+Cities)
+<p align="center">
+  <img src="aabf2f3f-b217-4844-bd2c-d78b8955435f.png" alt="ParkSense Banner" width="100%">
+</p>
 
 ## 🚀 Quick Start
 
